@@ -1,32 +1,28 @@
-# Hi, I'm Imrane Lakniti
+<img src="./assets/banner.svg" width="100%" alt="Imrane Lakniti — full-stack developer working with Java, Spring Boot, TypeScript and React. Animated violet wireframe on charcoal." />
 
-**Full-stack developer working with Java and TypeScript.**
+<br />
 
-I build web applications with Spring Boot, React and Next.js. I enjoy working across the stack: shaping the API, connecting the data, and making the interface feel straightforward to use.
+I build web apps from the API to the interface. Mostly **Java + TypeScript**, with a soft spot for developer tools and making complicated workflows feel simple.
 
-## What I'm building
+### My stack
 
-**Neurodive**
+<img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,tailwind,mysql,docker&amp;theme=dark" width="440" alt="Java, Spring Boot, TypeScript, React, Next.js, Tailwind CSS, MySQL and Docker" />
 
-A platform for neurodivergent people to explore resources, find professionals and manage their memberships. My current frontend work brings together the public website, member area, professional portal and admin workspace with React and TypeScript.
+Also working with **Vite**, **Playwright**, **Postman** and **Groq**.
 
-**codeGraph**
+### On my desk
 
-A tool for understanding JavaScript and TypeScript codebases. It maps dependencies and shows which files a change could affect, with test coverage alongside them. Unresolved imports stay visible, so the graph makes its limits clear.
+| Project | What I'm building |
+| :--- | :--- |
+| **Neurodive** | A React and TypeScript frontend for resources, professional discovery, memberships and admin workflows. |
+| **codeGraph** | Dependency maps for JavaScript and TypeScript: what a change affects, what tests cover, and what the analyzer couldn't resolve. |
 
-## Tools I work with
+Most of my code lives in private repositories. This is a glimpse of what I'm working on.
 
-| Area | Technologies |
-| --- | --- |
-| Backend | Java, Spring Boot, MySQL, JWT |
-| Frontend | TypeScript, React, Next.js, Tailwind CSS |
-| Development | Git, Docker, Postman, Vite |
-| Testing & integrations | Playwright, Groq |
+### Meanwhile, in the commit history
 
-## What interests me
-
-- Developer tools that make unfamiliar code easier to understand.
-- Clear interfaces for workflows with lots of data and decisions.
-- Keeping APIs, types and frontend behavior in sync as a project grows.
-
-Most of my repositories are private. This profile is a short introduction to what I work on.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imranelak1/imranelak1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imranelak1/imranelak1/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="An animated violet snake working its way through my GitHub contributions" src="https://raw.githubusercontent.com/imranelak1/imranelak1/output/github-contribution-grid-snake-dark.svg" />
+</picture>
